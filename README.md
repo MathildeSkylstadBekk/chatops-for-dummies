@@ -33,9 +33,9 @@ Du kan se hva slags ferdigheter botten her med å kjøre `hubot help` i terminal
     hubot animate me <query> - The same thing as `image me`, except adds [snip]
     hubot help - Displays all of the help commands that hubot knows about.
   
-For å snakke med huboten i terminalen
+For å snakke med huboten i terminalen, og sjekke at alt fungerer, kan du f.eks skrive 
 
-    hubot> hubot hei
+    hubot> hubot echo hei
 
 ### På Slack
 
